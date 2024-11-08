@@ -125,6 +125,8 @@ Levels 8 and above vary drastically from company to company. Organizations of di
 
 * [The Manager's Path](http://shop.oreilly.com/product/0636920056843.do): Camille Fournier does an excellent job at describing the expectations and challenges of many engineering positions. Also, she provides good advice about writing a career ladder in chapter 9.
 
+* [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/): Tanya Reilly outlines the technical leadership track, as opposed to the people manager side. She provides inspiring tips on how to achieve impact, and how to know if the Staff (technical) route is right for you.
+
 * [How to Be Good at Performance Appraisals](https://store.hbr.org/product/how-to-be-good-at-performance-appraisals-simple-effective-done-right/10295): Dick Grote explains in simple terms how to define job responsibilities and how to evaluate performance (results and behaviors).
 
 # Other Pages
